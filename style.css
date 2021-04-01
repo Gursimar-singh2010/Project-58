@@ -1,0 +1,26 @@
+body{
+text-align:center;
+background:linear-gradient(#eeaeca 0%,#94bbe9 100%);
+  background-repeat: no repeat;
+}
+#welcome{
+padiing:20px;
+  font-size:30px;
+  text-align:center;
+}
+#information{
+padiing:20px;
+  font-size:20px;
+  text-align:center;
+}
+img{
+border-radius:100%;
+width:100;
+}
+.my_nav_bar {
+  overflow:hidden;
+  position: fixed;
+  top: 0;
+  width:100%;
+  color: skyblue;
+}
